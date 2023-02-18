@@ -1,1 +1,2 @@
-# snake-js
+# snake-js 🐍🍎
+O objetivo é evitar colidir com as paredes ou com o próprio corpo da cobra, que aumenta de tamanho a cada nova peça de comida coletada. O jogador usa as setas do teclado para controlar a cobra e o jogo termina quando a cobra colide com as paredes ou com o próprio corpo. O jogador ganha pontos cada vez que coleta uma nova peça de comida e o jogo fica mais difícil à medida que a cobra cresce
