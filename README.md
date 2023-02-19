@@ -1,2 +1,2 @@
 # snake-js 🐍🍎
-O objetivo é evitar colidir com as paredes ou com o próprio corpo da cobra, que aumenta de tamanho a cada nova peça de comida coletada. O jogador usa as setas do teclado para controlar a cobra e o jogo termina quando a cobra colide com as paredes ou com o próprio corpo. O jogador ganha pontos cada vez que coleta uma nova peça de comida e o jogo fica mais difícil à medida que a cobra cresce
+O código cria um jogo clássico da cobrinha, fiz para treinar javascript. Implementei um sistema de contagem de pontos e se a cobra colidir com as paredes ou com o próprio corpo, o jogo acaba e aparece um pop-up avisando que o usuário perdeu. O visual do jogo é estilizado com CSS e HTML, incluindo um botão de reiniciar.
